@@ -6,10 +6,11 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
     color: white;
     text-align: center;
-    padding: 30px;
+    padding: 40px;
+}
 }
 
 h1 {
